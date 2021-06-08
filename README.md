@@ -3,7 +3,7 @@ FastZIP Codebase
 
 This repository contains the codebase for the FastZIP zero-interaction pairing scheme published in "FastZIP: Faster and More Secure Zero-Interaction Pairing", by Mikhail Fomichev, Julia Hesse, Lars Almon, Timm Lippert, Jun Han, Matthias Hollick, in Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '21).
 
-The relevant datasets can be found [on Zenodo](https://dx.doi.org/10.5281/zenodo.4777836).
+The relevant datasets can be found [on Zenodo](https://doi.org/10.5281/zenodo.4777836).
 
 The code in this repository is structured in several folders:
 
