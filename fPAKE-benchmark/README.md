@@ -22,7 +22,7 @@ This folder contains the fPAKE protocol implementation and a benchmarking script
   * *ROLE*
     * A device can either be a sender or receiver (i.e., `ROLE=receiver | ROLE=sender`).
   * *SECPARAM* 
-    * Should be set to the same value on both devices, represents a security level (i.e., `SECPARAM=1 | SECPARAM=0`)
+    * Should be set to the same value on both devices, represents a security level (i.e., `SECPARAM=1 | SECPARAM=0`).
   * *JSONDIR*
     - Should point to the directory that contains the input data (i.e., `JSONDIR=.../input/cache`). 
 
@@ -31,10 +31,16 @@ This folder contains the fPAKE protocol implementation and a benchmarking script
   *python3 benchmark.py*
 
 * The results should be saved based on the security level in the folder "results128" or "results244" (see "[fastzip-results/fpake/results](https://dx.doi.org/10.5281/zenodo.4911390)").
+
 * With the *statistics.py* (should be placed in the root of "fastzip-results/fpake/results") the results can be further evaluated:
+
   * Open the *statistics.py* script and set the following: 
+
     * *default_folder = "results128"* or *default_folder = "results244"*.
-  * The statistics results will be printed to the console.
+
+  * The statistics results will be printed to the console by executing:
+
+    *python3 statistics.py*
 
 
 ## Authors
