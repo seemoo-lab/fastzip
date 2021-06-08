@@ -23,4 +23,5 @@ In the paper we stated the assessed min entropy.
 
 Code of the used NIST SP800-90B tests can be found here:
 https://github.com/usnistgov/SP800-90B_EntropyAssessment
+
 We used commit ba92f0ddeff50e6f333d8abc668d58dd7b0fb0b6 from May 21 12:51:46 2019.
