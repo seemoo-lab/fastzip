@@ -1,6 +1,6 @@
 # FastZIP Scheme
 
-This folder contains the three Jupyter notebooks that comprise the core functionality of the FastZIP zero-interaction scheme from the paper "FastZIP: Faster and More Secure Zero-Interaction Pairing", by Mikhail Fomichev, Julia Hesse, Lars Almon, Timm Lippert, Jun Han, Matthias Hollick, in Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '21).
+This folder contains the three Jupyter notebooks that comprise the core functionality of the FastZIP zero-interaction pairing scheme from the paper "FastZIP: Faster and More Secure Zero-Interaction Pairing", by Mikhail Fomichev, Julia Hesse, Lars Almon, Timm Lippert, Jun Han, Matthias Hollick, in Proceedings of the 19th Annual International Conference on Mobile Systems, Applications, and Services (MobiSys '21).
 
 ## Getting Started
 
